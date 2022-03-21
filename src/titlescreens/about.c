@@ -32,7 +32,7 @@ while(g==0){
 	
 	if(pag=='w'){
 			map(edge);
-			parr(edge,4,"Por cierto, este juego sigue siendo dedicado a esa persona...");
+			parr(edge,4,"...");
 			framebuild(edge,(V-3),2,"[Pulsa cualquier tecla para volver]");
 				system("cls");
 				print(edge);

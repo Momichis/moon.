@@ -10,11 +10,8 @@
 
 int main(){
 
-//tests();
-  
 ShowConsoleCursor(false);
-snaker();
+    tests();
 
   return 0;
 	}
-
