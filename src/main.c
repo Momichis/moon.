@@ -9,9 +9,6 @@
 #include "game-misc/game-misc.h"
 
 int main(){
-
-ShowConsoleCursor(false);
-    tests();
-
+snaker();
   return 0;
 	}
